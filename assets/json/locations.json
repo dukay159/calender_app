@@ -1,0 +1,30 @@
+[
+   {
+      "city": "Hà Nội",
+      "temperature": "28\u2103",
+      "weatherType": "Rainy",
+      "iconUrl": "assets/images/rain.svg",
+      "wind": 20,
+      "rain": 70,
+      "humidity": 91
+   },
+   {
+      "city": "Hồ Chí Minh",
+      "temperature": "35\u2103",
+      "weatherType": "Night",
+      "iconUrl": "assets/images/moon.svg",
+      "wind": 20,
+      "rain": 70,
+      "humidity": 91
+   },
+   {
+      "city": "Đà Nẵng",
+      "temperature": "34\u2103",
+      "weatherType": "Sunny",
+      "iconUrl": "assets/images/sun.svg",
+      "wind": 50,
+      "rain": 10,
+      "humidity": 23
+   }
+   
+]
